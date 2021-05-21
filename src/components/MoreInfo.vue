@@ -8,21 +8,26 @@
             class="cards"
             bordered
             >
-                <img src="./../assets/j1.png" alt="">
+                <img src="./../assets/turtleRob.jpg" alt="">
                 <q-card-section>
                     <div class="q-pa-xl q-pa-xs text-black text-subtitle1 text-justify texting">
                         Esteja preparado para encarar diversos desafios em vários planetas e em várias
-                         dimensões, sinta o espetácular dos fênomenos do universo lhe alcançar e te
-                          ajudar a encarar e então, a te ajudar a superar cada um destes desafios.
+                        dimensões, sinta o espetácular dos fênomenos do universo lhe alcançar e te
+                        ajudar a encarar e então, a te ajudar a superar cada um destes desafios.
+                        Porém não tenha medo, a nossa amiga tartaruga irá te ajudar a responder
+                        quaisquer questões que precisar, pra te ajudar a melhorar e entender quaisquer
+                        complexidade que a dimensão, o universo e entre outras coisas há de oferecer,
+                        mas não se esqueça o diferencial vem de você!
+    
                     </div>
                 </q-card-section>
             </q-card>
-            <q-separator
+            <!-- <q-separator
             spaced="12px"
             vertical
             color="transparent"
-            />
-            <q-card
+            /> -->
+            <!-- <q-card
             class="cards"
             bordered
             >
@@ -35,7 +40,7 @@
                            mas não se esqueça o diferencial vem de você!
                     </div>
                 </q-card-section>
-            </q-card>
+            </q-card> -->
         </div>
         <div>
             <two-more-info />

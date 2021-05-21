@@ -2,7 +2,7 @@
     <div class="q-px-lg q-py-xl justify-center items-center text-center text-primary" >
         <div class="q-px-lg q-py-xl justify-center items-center text-cent text-primary row">
             <q-card class="cards">
-                <img src="./../assets/b3.png">
+                <img src="./../assets/hh2.png">
 
             <q-card-section>
                 <div class="q-pa-xs text-black text-subtitle1 text-justify texting">
@@ -19,7 +19,7 @@
             color="transparent"
             />
             <q-card class="cards">
-                <img src="./../assets/b1.png">
+                <img src="./../assets/hh1.png">
 
             <q-card-section>
                 <div class="q-pa-xs text-black text-subtitle1 text-justify texting">
@@ -36,7 +36,7 @@
             color="transparent"
             />
             <q-card class="cards">
-                <img src="./../assets/j22.png">
+                <img src="./../assets/hh4.png">
 
             <q-card-section>
                 <div class="q-pa-xs text-black text-subtitle1 text-justify texting">
