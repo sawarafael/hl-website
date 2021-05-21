@@ -10,11 +10,11 @@
         class="text-white"
       >
         <div class="q-pa-md text-white text-h6 text-justify texting">
-         Viaje pelas fronteiras de cada universo, de cada dimensão e se aventure
-          em reinos perdidos e outros em ascenção, descubra grandes histórias, veja
-           o desenvolvimento de cada uma delas e aprenda como cada cultura entra em
-            harmonia, compreenda e perceba como cada aresta de detalhes se prende e
-             interliga para uma porta de milhares de novas vértices de diversão.
+            Você será um viajante do Tempo e do Espaço, tendo capacitação para
+             interagir com robôs que ensinarão muitas aprendizagens durante o seu caminhos,
+              tais elas como: Artes; Ciências dos Aspectos da Mente; dos Processos do Design
+               e das Engenharias e tudo isto pelo ponto de vista do livro das mutações, o I-Ching.
+  
         </div>
       </q-timeline-entry>
 
@@ -25,10 +25,11 @@
         class="text-white"
       >
         <div class="q-pa-md text-white text-h6 text-justify texting">
-            Você será um viajante do Tempo e do Espaço, tendo capacitação para
-             interagir com robôs que ensinarão muitas aprendizagens durante o seu caminhos,
-              tais elas como: Artes; Ciências dos Aspectos da Mente; dos Processos do Design
-               e das Engenharias e tudo isto pelo ponto de vista do livro das mutações, o I-Ching.
+         Viaje pelas fronteiras de cada universo, de cada dimensão e se aventure
+          em reinos perdidos e outros em ascenção, descubra grandes histórias, veja
+           o desenvolvimento de cada uma delas e aprenda como cada cultura entra em
+            harmonia, compreenda e perceba como cada aresta de detalhes se prende e
+             interliga para uma porta de milhares de novas vértices de diversão.
         </div>
       </q-timeline-entry>
       <q-timeline-entry
