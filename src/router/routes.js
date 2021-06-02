@@ -1,7 +1,7 @@
 
 const routes = [
   {
-    path: '/',
+    path: '/main',
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '/', component: () => import('pages/Index.vue') }
@@ -24,10 +24,11 @@ const routes = [
     ]
   },
   {
-    path: '/playground',
+    path: '/play',
     component: () => import('layouts/GameLayout.vue'),
     children: [
-      { path: '/game', component: () => import('pages/Game/Game.vue') }
+      { path: '/', component: () => import('pages/Game/Game.vue') },
+      { path: '/settings', component: () => import('pages/Game/Launcher.vue') }
     ]
   },
   {

@@ -12,7 +12,8 @@
     "@quasar/extras": "^1.0.0",
     "@quasar/icongenie": "^2.3.3",
     "core-js": "^3.6.5",
-    "quasar": "^1.0.0"
+    "quasar": "^1.0.0",
+    "three.js": "^0.77.1"
   },
   "devDependencies": {
     "@quasar/app": "^2.0.0"
